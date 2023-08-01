@@ -13,6 +13,8 @@ Run these commands:
 
 `node app.js`
 
+docker compose run
+
 
 
 
